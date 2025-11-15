@@ -3,8 +3,8 @@
 
 # These owners will be the default owners for everything in
 # the repo. Unless a later match takes precedence
-*       @ProgrammingByPermutation
+*       @code-is-neat
 
 # Specifically protect the github folder since it controls
 # our code owners as well as our github actions.
-/.github/ @ProgrammingByPermutation
+/.github/ @code-is-neat
